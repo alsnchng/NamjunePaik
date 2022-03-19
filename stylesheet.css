@@ -1,0 +1,92 @@
+.header{
+   font-family: freight-big-pro, serif;
+   font-style: normal;
+   font-weight: 300px;
+   font-size:  250px;
+   margin: 40px;
+   color: blue;
+  }
+
+.header-2{
+   font-family: freight-big-pro, serif;
+   font-style: normal;
+   font-weight: 300px;
+   font-size:  250px;
+   margin: 40px;
+   text-align: right;
+   color: blue;
+  }
+  
+.header-align-center{
+   margin: 40px;
+   font-family: helvetica;
+   font-size: 30px;
+   text-align: center;
+   color: blue;
+  }
+
+.header-align-right{
+   margin: 40px;
+   font-family: helvetica;
+   font-size: 30px;
+   text-align: right;
+   color: blue;
+  }
+
+.paragraph{
+  margin: 40px;
+  font-family: helvetica;
+  font-size: 20px;
+  text-align: center;
+  color: blue;
+  }
+
+.p2{
+  margin: 40px;
+  font-family: helvetica;
+  font-size: 15px;
+  text-align: left;
+  color: blue;
+  float: left;
+  }
+
+.button{
+   margin: 40px;
+   font-family: helvetica;
+   font-size: 15px;
+   text-align: center;
+   color: blue;
+   border: 2px solid blue;
+   border-radius: 50px;
+   width: 130px;
+   float: right;
+  }
+
+.button-2{
+   margin: 40px;
+   font-family: helvetica;
+   font-size: 15px;
+   text-align: center;
+   color: blue;
+   border: 2px solid blue;
+   border-radius: 50px;
+   width: 130px;
+   float: right;
+  }
+
+  .block{
+  margin: 40px;
+  font-family: helvetica;
+  font-size: 15px;
+  text-align: justified;
+  color: blue;
+  float: right;
+  }
+
+  .moss-1{
+   float: right;
+  }
+
+  .moss-2{
+   float: left;
+  }
